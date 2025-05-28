@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 <h4 align="center">🤝 Let’s connect and create something awesome!</h4>
 
-### 🤝 Let’s connect and create something awesome!
 
 <div align="center">
   <a href="https://linkedin.com/in/marfrida-halliaputri" target="_blank">
