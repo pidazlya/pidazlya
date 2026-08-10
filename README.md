@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">System.out.println("Hello, I’m Pida👩‍💻");</h1>
 
-![pida](pida.png)
+![pida](Untitled.png)
 ###
 
 <p align="center">Just a tech enthusiast who loves turning ideas into real things.<br>Currently learning AI, designing stuff, and building cool projects.<br>Let’s create, grow, and have fun along the way 🚀</p>
